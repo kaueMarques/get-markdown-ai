@@ -1,0 +1,2 @@
+[project]
+target_dirs = ["./md_repository"]

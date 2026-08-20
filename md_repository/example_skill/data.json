@@ -1,0 +1,6 @@
+{
+  "skill_name": "data_processor",
+  "version": "1.0.0",
+  "threshold": 0.85,
+  "active": true
+}

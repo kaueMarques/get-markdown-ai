@@ -1,0 +1,6 @@
+skills[5]{path,name,description,tags}:
+./md_repository/api_connector/skill.md,API Connector,Handles authentication and data retrieval from third-party APIs,api authentication data-fetcher
+./md_repository/empty_skill/skill.md,empty_skill,,
+./md_repository/example_skill/skill.md,Data Processor,Process incoming JSON payloads and format them for the main application,json parser data-processor
+./md_repository/skill_adapter/skill.md,My Awesome Skill,Guides the AI on how to adapt and index external skills into the get-markdown-ai ecosystem.,api python json
+./md_repository/text_summarizer/skill.md,Text Summarizer,Leverages an LLM to generate concise summaries of long text documents,llm markdown update summarization
