@@ -114,3 +114,5 @@ The `get-markdown-ai` ecosystem relies on two lightweight XML-style tags to brid
 - `config.toml`: Directory configurations to set target repositories.
 - `skills.toon`: The ultra-lightweight skills database optimized for LLM reading.
 - `configs/`: Internal modules for the tool's operation (`find_md.sh`, `validate_skill.sh`, `texts.toml`, etc).
+
+Post: https://www.linkedin.com/posts/kauemb_github-kauemarquesget-markdown-ai-activity-7496358394706944001-iczK?utm_source=share&utm_medium=member_ios&rcm=ACoAACoj_D0B-op55_8ep4tcmW3cuQpaeVrRc9E
